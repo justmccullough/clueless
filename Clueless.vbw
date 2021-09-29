@@ -1,0 +1,12 @@
+dlgGuess = 104, 104, 1961, 986, C, 78, 78, 1935, 960, C
+dlgGuessResults = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAllScores = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmHighScores = 0, 0, 0, 0, C, 130, 130, 1987, 1012, C
+frmMain = 182, 182, 2039, 1064, C, 156, 156, 2013, 1038, C
+frmSelectCharacter = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmStartup = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmWon = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modClueless = 26, 26, 1883, 908, 
+modGlobals = 0, 0, 0, 0, C
+Player = 52, 52, 1909, 934, C
